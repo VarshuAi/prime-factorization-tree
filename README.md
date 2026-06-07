@@ -38,7 +38,7 @@ version: 1.0
 type: Repository
 author: VarshuAi
 description: >
-  Node tree displaying integer factor breakdown.
+  name: prime-factorization-tree version: 1.0 type: Repository author: VarshuAi description: >   Node tree displaying integer factor breakdown. primary_tech: CSS
 primary_tech: CSS
 ```
 
